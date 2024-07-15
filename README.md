@@ -20,13 +20,6 @@
 - **DevOps & Cloud:** Kubernetes, AWS,  CI/CD, Docker
 - **Debugging:** Breakpoints Techniques, Exceptions
 
-💬 Let's Connect!
-
-- Email: maheshnerusula@gmail.com
-- LinkedIn: [Mahesh Babu Nerusula](https://www.linkedin.com/in/mahesh-babu-nerusula-1b2202231/)
-- GitHub: [Mahesh Babu Nerusula](https://github.com/MAHESHBABUNERUSULA)
-
----
 
 Feel free to explore my repositories and reach out if you want to collaborate on any projects or discuss new ideas!
 
