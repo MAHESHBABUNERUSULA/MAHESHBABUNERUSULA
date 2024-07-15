@@ -23,7 +23,7 @@
 💬 Let's Connect!
 
 - Email: maheshnerusula@gmail.com
-- LinkedIn: [Mahesh Babu Nerusula](https://www.linkedin.com/in/maheshnerusula/)
+- LinkedIn: [Mahesh Babu Nerusula](https://www.linkedin.com/in/mahesh-babu-nerusula-1b2202231/)
 - GitHub: [Mahesh Babu Nerusula](https://github.com/maheshnerusula)
 
 ---
